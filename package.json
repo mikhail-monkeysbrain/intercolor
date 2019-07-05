@@ -1,0 +1,25 @@
+{
+  "name": "mail_tpl",
+  "version": "1.0.0",
+  "description": "A table-based (but responsive) email template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhail-monkeysbrain/intercolor.git"
+  },
+  "keywords": [
+    "email",
+    "template",
+    "html",
+    "css"
+  ],
+  "author": "monkeysbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikhail-monkeysbrain/intercolor/issues"
+  },
+  "homepage": "https://github.com/mikhail-monkeysbrain/intercolor#readme"
+}
